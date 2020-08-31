@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![Mockup](Mockup.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
